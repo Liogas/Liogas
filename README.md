@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi, I'm Gaston Lions 👋
+
+🎓 Student at 42 Paris
+
+## 🚀 Skills
+- C / C++
+- Unix / Shell
+- Git
+- Frontend / Backend
+- Docker
+
+## 📌 Main projects
+- minishell → a Unix shell reproduction
+- transcendence -> website with pong game
+- portfolio -> RPG2D like
+
+## 📫 Contact
+- LinkedIn -> https://www.linkedin.com/in/gaston-lions-817823176/
+- Email -> gastonlions.pro@gmail.com
 
 <!--
 **Liogas/Liogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
