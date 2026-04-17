@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Student at 42
-- 💻 Passionate about building web applications
+- 💻 Passionate about building web applications and logiciel
 - ⚡ Focus on clean code, performance, and scalability
 
 ---
