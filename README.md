@@ -76,8 +76,3 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Liogas/Liogas/output/snake.svg" />
-</div>
